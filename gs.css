@@ -33,6 +33,14 @@ p.direction:hover
     color: deepskyblue;
     text-align: left;
 }
+.JIM:hover
+{
+    color:black;
+    filter: blur(0.6px);
+    font-size: 16px;
+
+    
+}
 
 .AUNTCANDACE
 {
@@ -40,6 +48,12 @@ p.direction:hover
     font-size: 16px;
     color: darkblue;
     text-align: left;
+}
+.AUNTCANDACE:hover
+{
+    color: black;
+    filter: blur(0.6px);
+    font-size: 16px;
 }
 
 .MARY
@@ -49,10 +63,22 @@ p.direction:hover
     color: darkcyan;
     text-align: left;
 }
+.MARY:hover
+{
+    color: black;
+    filter: blur(0.6px);
+    font-size: 16px;
+}
 .MORGAN
 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 16px;
     color: purple;
     text-align: left;
+}
+.MORGAN:hover
+{
+    color: black;
+    filter: blur(0.6px);
+    font-size: 16px;
 }
