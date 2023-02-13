@@ -1,0 +1,64 @@
+h2{
+    font-size: 30x;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h4
+{
+    font-size: 17px;
+    color: navy;
+    font-family: sans-serif;
+}
+p.speech
+{
+    font-size:16px;
+    color: black;
+}
+p.direction
+{
+    font-family: cursive;
+    font-size: 12px;
+    background-color: lightcyan;
+}
+p.direction:hover
+{
+    background-color: aquamarine;
+    color: brown;
+}
+
+{
+    font-size: 16px;
+    color: black;
+    font-size: normal;
+}
+.JIM
+{
+    font-family: monospace;
+    font-size: 16px;
+    color: deepskyblue;
+    text-align: left;
+}
+
+.AUNTCANDACE
+{
+    font-family: serif;
+    font-size: 16px;
+    color: darkblue;
+    text-align: left;
+}
+
+.MARY
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: darkcyan;
+    text-align: left;
+}
+.MORGAN
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color: purple;
+    text-align: left;
+}
