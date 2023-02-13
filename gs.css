@@ -82,3 +82,21 @@ p.direction:hover
     filter: blur(0.6px);
     font-size: 16px;
 }
+table
+{
+
+}
+table,
+th,
+td{
+    border-color: palevioletred;
+    color:blue;
+    text-align: center;
+    white-space: nowrap;
+    margin: 15px 20px 15px 10px;
+    
+}
+th,
+td{
+    padding: 20px;
+}
