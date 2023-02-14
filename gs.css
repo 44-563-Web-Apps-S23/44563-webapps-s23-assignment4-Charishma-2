@@ -1,5 +1,5 @@
 h2{
-    font-size: 30x;
+    font-size: 30px;
     color: red;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -37,6 +37,8 @@ p.direction:hover
 {
     color:black;
     filter: blur(0.6px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 11px;
     font-size: 16px;
 
     
@@ -53,6 +55,8 @@ p.direction:hover
 {
     color: black;
     filter: blur(0.6px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 10px;
     font-size: 16px;
 }
 
@@ -67,6 +71,8 @@ p.direction:hover
 {
     color: black;
     filter: blur(0.6px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 10px;
     font-size: 16px;
 }
 .MORGAN
@@ -80,6 +86,8 @@ p.direction:hover
 {
     color: black;
     filter: blur(0.6px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 10px;
     font-size: 16px;
 }
 table,
