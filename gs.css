@@ -36,7 +36,7 @@ p.direction:hover
 .JIM:hover
 {
     color:black;
-    filter: blur(0.6px);
+    filter: blur(1.1px);
     border-style: dotted;
     text-shadow: navy 2px 0 11px;
     font-size: 16px;
@@ -53,7 +53,7 @@ p.direction:hover
 .AUNTCANDACE:hover
 {
     color: black;
-    filter: blur(0.6px);
+    filter: blur(1.1px);
     border-style: dotted;
     text-shadow: navy 2px 0 10px;
     font-size: 16px;
@@ -69,7 +69,7 @@ p.direction:hover
 .MARY:hover
 {
     color: black;
-    filter: blur(0.6px);
+    filter: blur(1.1px);
     border-style: dotted;
     text-shadow: navy 2px 0 10px;
     font-size: 16px;
@@ -84,7 +84,7 @@ p.direction:hover
 .MORGAN:hover
 {
     color: black;
-    filter: blur(0.6px);
+    filter: blur(1.1px);
     border-style: dotted;
     text-shadow: navy 2px 0 10px;
     font-size: 16px;
@@ -92,10 +92,11 @@ p.direction:hover
 table,
 th,
 td{
-    border-color: palevioletred;
+    border-color: green;
     color:blue;
     text-align: center;
     white-space: nowrap;
+    border-style:double;
     margin: 15px 20px 15px 10px;
     
 }
@@ -103,3 +104,55 @@ th,
 td{
     padding: 20px;
 }
+tr:nth-child(even) {
+    background-color: lightcoral;
+  }
+tr:nth-child(odd) {
+    background-color: lawngreen;
+  }
+  a:link {
+    color: lightsalmon;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:darkred;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:deeppink;
+    background-color:lightgreen;
+  }
+  
+  /* selected link */
+  a:active {
+    color:hotpink;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:lightgreen;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: green;
+    text-align: center;
+    padding: 13px 15px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color:plum;
+  }
+  
+  .active {
+    background-color:mediumvioletred;
+  }
