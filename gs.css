@@ -10,18 +10,18 @@ h4
     color: navy;
     font-family: sans-serif;
 }
-p.speech
+.speech
 {
     font-size:16px;
     color: black;
 }
-p.direction
+.direction
 {
     font-family: cursive;
     font-size: 12px;
     background-color: lightcyan;
 }
-p.direction:hover
+.direction:hover
 {
     background-color: aquamarine;
     color: brown;
